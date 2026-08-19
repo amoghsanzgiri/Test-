@@ -1,4 +1,4 @@
 # Test-
 just a test repository 
 <br>
-Author : Amogh Sanzgiri
+Author : Amogh  A. Sanzgiri
